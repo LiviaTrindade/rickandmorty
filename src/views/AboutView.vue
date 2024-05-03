@@ -20,6 +20,12 @@ export default {
 </script>
 
 <style scoped>
+
+* {
+  color: rgb(36, 36, 36);
+}
+
+
 .container {
   padding: 3rem;
 }
