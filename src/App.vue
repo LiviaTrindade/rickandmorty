@@ -42,8 +42,9 @@
   text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px rgb(0, 255, 98), 0 0 70px rgb(0, 255, 85), 0 0 80px rgb(0, 255, 64), 0 0 100px rgb(0, 255, 76), 0 0 150px rgb(0, 255, 76);
 }
 
-.nav-link {
+.nav-link:hover {
   color: #00f7ff !important;
+  text-shadow: 0 8px 12px rgb(0, 255, 21);
 }
 
 .navbar-nav .nav-link {
